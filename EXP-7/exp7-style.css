@@ -5,8 +5,8 @@ body{
 
 .block-menu a{
     display: block;
-    background-color: #3598DB;
-    color: white;
+    background-color: #07c7e9;
+    color: rgb(255, 255, 255);
     padding: 10px;
     margin: 5px 0;
     text-decoration: none;
@@ -14,7 +14,7 @@ body{
 
 .inline-menu a{
     display: inline;
-    background-color: #29CC6F;
+    background-color: #07ec6a;
     color: white;
     padding: 5px;
     margin: 5px;
@@ -23,7 +23,7 @@ body{
 
 .inline-block-menu a{
     display: inline-block;
-    background-color:#8054CF;
+    background-color:#611fdb;
     color: white;
     height: 25px;
     width: 100px;
@@ -35,7 +35,7 @@ body{
 
 .float-menu a{
     display: float;
-    background-color:#E67644;
+    background-color:#fc0b27;
     color: white;
     padding: 10px 15px;
     margin: 5px;
@@ -44,7 +44,7 @@ body{
 
 .clear-example{
     clear: both;
-    background-color: #f4f4f4;
+    background-color: #ea078f;
     padding: 10px;
     margin-top: 20px;
     border: 1px solid #ccc;
