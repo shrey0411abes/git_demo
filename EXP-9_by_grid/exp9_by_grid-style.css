@@ -6,7 +6,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background: #f5f5f5;
+    background: #058ee3;
 }
 
 h1{
@@ -25,7 +25,7 @@ h1{
 }
 
 .product-card{
-    background: #fff;
+    background: #06d2c1;
     border: 1px solid #ddd;
     border-radius: 10px;
     padding: 35px 15px 35px;
@@ -34,7 +34,7 @@ h1{
 
 .product-card:hover{
     transform: scale(1.05);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0);
 }
 
 .product-card img{
@@ -57,7 +57,7 @@ h1{
 
 .price{
     font-size: 18px;
-    color: green;
+    color: rgb(12, 224, 12);
     font-weight: bold;
     margin: 10px 0;
     padding: 15px;
